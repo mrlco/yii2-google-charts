@@ -2,7 +2,7 @@
     "name": "mrlco/yii2-google-charts",
     "description": "A wrapper for Google charts in Yii2",
     "type": "yii2-extension",
-    "keywords": [,"yii2 google charts"],
+    "keywords": ["yii2 google charts"],
     "license": "GNU",
     "authors": [
         {
