@@ -1,0 +1,27 @@
+{
+    "name": "mrlco/yii2-google-charts",
+    "description": "A wraper for Google charts in Yii2",
+    "type": "yii2-extension",
+    "keywords": [,"yii2 google charts"],
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Mehran Barzandeh",
+            "email": "admin@mrlco.ir",
+            "homepage": "http://mrlco.ir",
+            "role": "Creator"
+        }
+    ],
+  "support": {
+    "issues": "https://github.com/mrlco/yii2-google-charts/issues",
+    "source": "https://github.com/mrlco/yii2-google-charts"
+  },
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "mrlco\\googlecharts\\": ""
+        }
+    }
+}
